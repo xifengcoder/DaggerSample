@@ -1,0 +1,4 @@
+rootProject.name = "DaggerSample"
+include ':app'
+include ':core'
+include ':feature'
